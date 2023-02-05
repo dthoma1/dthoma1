@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dthoma1/dthoma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![DARBAGOTCHI-brigth](https://user-images.githubusercontent.com/66705495/216847286-2c8323e1-d301-4fe4-a85a-ec12054ad660.png)
+
+I'm a product designer at GitHub. I make 3D art for fun.
