@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![DARBAGOTCHI-brigth](https://user-images.githubusercontent.com/66705495/216847286-2c8323e1-d301-4fe4-a85a-ec12054ad660.png)
 
-I'm a product designer at GitHub. I make 3D art for fun.
+I'm a product designer at GitHub. 💖 I work on GitHub Sponsors. I make 3D art for fun.
